@@ -1,11 +1,11 @@
-About r-biwt
-============
+About r-biwt-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-biwt-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=biwt
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-biwt-feedstock/blob/main/LICENSE.txt)
 
 Summary: Compute multivariate location, scale, and correlation estimates based on Tukey's biweight M-estimator.
 
